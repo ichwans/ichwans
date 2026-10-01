@@ -5,7 +5,7 @@
 <img src="./header.svg" alt="Ichwan Subekti - IT Systems and Infrastructure, Blockchain Researcher" width="100%" />
 
 <a href="https://github.com/ichwans">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ichwan+%F0%9F%91%8B;12%2B+years+in+higher-education+IT+infrastructure;Linux+%C2%B7+Windows+Server+%C2%B7+MikroTik+%C2%B7+Odoo+ERP;MSc+Computer+Science+%E2%80%94+IPB+University;Researching+blockchain+for+asset+management" alt="Hi, I'm Ichwan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ichwan+%F0%9F%91%8B;12%2B+years+in+higher-education+IT+infrastructure;Linux+%C2%B7+Windows+Server+%C2%B7+MikroTik+%C2%B7+Odoo+ERP;MSc+Candidate+in+Computer+Science+%C2%B7+IPB+University;Researching+blockchain+for+asset+management" alt="Hi, I'm Ichwan" />
 </a>
 
 <p>
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-IT professional with 12+ years of experience in enterprise infrastructure, systems administration, and IT operations in the higher-education sector. I currently work at **IPMI International Business School** in Jakarta and am finishing my **Master of Computer Science at IPB University**, with a thesis on blockchain-based asset management systems.
+IT professional with 12+ years of experience in enterprise infrastructure, systems administration, and IT operations in the higher-education sector. I currently work at **IPMI International Business School** in Jakarta and am a **Master of Computer Science candidate at IPB University**, awaiting my final thesis defense. My thesis is on blockchain-based asset management systems.
 
 - 🏫 Led a major server upgrade and library system implementation as Project Manager
 - 🖥️ Keep servers, networks, and devices running at a 99.9% uptime target
@@ -116,7 +116,7 @@ IT professional with 12+ years of experience in enterprise infrastructure, syste
 
 ## 🎓 Education & Certifications
 
-- **IPB University** · Master of Computer Science (2024 – present), thesis in final stage
+- **IPB University** · Master of Computer Science candidate (2024 – present), awaiting final thesis defense
 - **Universitas Muhammadiyah Jakarta** · Bachelor's, Informatics Engineering
 - **Universitas Bina Sarana Informatika** · Diploma, Management Informatics
 
