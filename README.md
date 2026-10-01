@@ -1,19 +1,18 @@
-<!-- Save this file as README.md in a public repository named exactly: ichwans/ichwans -->
+<!-- Save README.md, header.svg and footer.svg in the root of the public repository ichwans/ichwans -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ichwan%20Subekti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Systems%20%26%20Infrastructure%20%7C%20Blockchain%20Researcher&descSize=18&descAlignY=60" alt="header" />
+<img src="./header.svg" alt="Ichwan Subekti - IT Systems and Infrastructure, Blockchain Researcher" width="100%" />
 
 <a href="https://github.com/ichwans">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ichwan+%F0%9F%91%8B;12%2B+years+in+higher-education+IT+infrastructure;Linux+%C2%B7+Windows+Server+%C2%B7+MikroTik+%C2%B7+Odoo+ERP;MSc+Computer+Science+%E2%80%94+IPB+University;Researching+blockchain+for+asset+management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ichwan+%F0%9F%91%8B;12%2B+years+in+higher-education+IT+infrastructure;Linux+%C2%B7+Windows+Server+%C2%B7+MikroTik+%C2%B7+Odoo+ERP;MSc+Computer+Science+%E2%80%94+IPB+University;Researching+blockchain+for+asset+management" alt="Hi, I'm Ichwan" />
 </a>
 
 <p>
   <a href="https://www.linkedin.com/in/ichwansubekti"><img src="https://img.shields.io/badge/LinkedIn-ichwansubekti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ich.bekti@gmail.com"><img src="https://img.shields.io/badge/Email-ich.bekti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://about.me/ichwan.subekti"><img src="https://img.shields.io/badge/about.me-ichwan.subekti-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="about.me"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=ichwans&label=Profile%20views&color=2c5364&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -67,17 +66,14 @@ IT professional with 12+ years of experience in enterprise infrastructure, syste
 
 ### Public
 
-| Repository | Description | Language | Type |
-|---|---|---|---|
-| [**assetmanagement-v1**](https://github.com/ichwans/assetmanagement-v1) | Asset management system, version 1, part of my thesis research | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Original |
+| Repository | Description | Language |
+|---|---|---|
+| [**assetmanagement-v1**](https://github.com/ichwans/assetmanagement-v1) | Asset management system, version 1, part of my thesis research | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 <div align="center">
 
 <a href="https://github.com/ichwans/assetmanagement-v1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ichwans&repo=assetmanagement-v1&theme=tokyonight&hide_border=true" alt="assetmanagement-v1" />
-</a>
-<a href="https://github.com/ichwans/maarafaes.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ichwans&repo=maarafaes.github.io&theme=tokyonight&hide_border=true" alt="maarafaes.github.io" />
 </a>
 
 </div>
@@ -88,6 +84,7 @@ IT professional with 12+ years of experience in enterprise infrastructure, syste
 |---|---|---|
 | 🔒 **BSC & Activity Tracker** | Web app that monitors KPI achievement against the strategic plan (Renstra) for each academic and administrative unit | Google Apps Script, Google Sheets |
 | 🔒 **MikroTik MCP Server** | MCP server that lets Claude manage MikroTik routers through the RouterOS REST API | Python, MCP, RouterOS REST API |
+| 🔒 **Integrated Data Platform** | Platform that consolidates data from multiple systems into one integrated environment | - |
 
 ---
 
@@ -135,8 +132,6 @@ IT professional with 12+ years of experience in enterprise infrastructure, syste
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ichwans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichwans&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=ichwans&theme=tokyonight&hide_border=true" alt="Streak" />
-
 </div>
 
 ---
@@ -145,6 +140,6 @@ IT professional with 12+ years of experience in enterprise infrastructure, syste
 
 💬 Open to conversations on higher-education IT infrastructure, blockchain, and asset management systems.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+<img src="./footer.svg" alt="" width="100%" />
 
 </div>
