@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Ichwan Subekti - IT Systems and Infrastructure, Blockchain Researcher">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 52px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; animation: fade 1.2s ease-out both; }
+      .sub  { font: 400 20px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9fd8f0; animation: fade 1.8s ease-out both; }
+      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1000" height="200" rx="12" fill="url(#bg)"/>
+  <g fill="none" stroke="#36bcf7" stroke-opacity="0.18" stroke-width="1.5">
+    <circle cx="880" cy="60" r="70"/>
+    <circle cx="880" cy="60" r="38"/>
+    <circle cx="140" cy="170" r="55"/>
+    <path d="M700 200 L760 140 L820 170 L900 110 L1000 150"/>
+  </g>
+  <text class="name" x="500" y="100" text-anchor="middle">Ichwan Subekti</text>
+  <text class="sub" x="500" y="140" text-anchor="middle">IT Systems &amp; Infrastructure  |  Blockchain Researcher</text>
+</svg>
