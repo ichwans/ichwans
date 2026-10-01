@@ -11,7 +11,6 @@
 <p>
   <a href="https://www.linkedin.com/in/ichwansubekti"><img src="https://img.shields.io/badge/LinkedIn-ichwansubekti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ich.bekti@gmail.com"><img src="https://img.shields.io/badge/Email-ich.bekti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://about.me/ichwan.subekti"><img src="https://img.shields.io/badge/about.me-ichwan.subekti-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="about.me"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ichwans&label=Profile%20views&color=2c5364&style=flat-square" alt="Profile views" />
@@ -71,9 +70,6 @@ IT professional with 12+ years of experience in enterprise infrastructure, syste
 | Repository | Description | Language | Type |
 |---|---|---|---|
 | [**assetmanagement-v1**](https://github.com/ichwans/assetmanagement-v1) | Asset management system, version 1, part of my thesis research | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Original |
-| [**maarafaes.github.io**](https://github.com/ichwans/maarafaes.github.io) | GitHub Pages site | Web | Original |
-| [**online-cv**](https://github.com/ichwans/online-cv) | Fork of a minimal Jekyll theme for hosting a resume ([demo](https://online-cv.webjeda.com)) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Fork |
-| [**maarafaes**](https://github.com/ichwans/maarafaes) | Fork of the *Feeling Responsive* Jekyll theme for sites and portfolios | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Fork |
 
 <div align="center">
 
