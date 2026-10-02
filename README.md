@@ -30,6 +30,7 @@
 
 - 🏛️ **Lead IT Infrastructure & System Administrator** at **IPMI International Business School** (2014 – Present).
 - 🚀 **End-to-End Project Leadership:** Spearheaded institutional server upgrades, multi-campus networking, campus-wide **Odoo ERP**, Admission, and Academic (SIAKAD) implementations.
+- 📄 **Peer-Reviewed Scholarly Publication:** Published research on *Blockchain Asset Management Architecture* in **Journal of Information Systems and Informatics (ISI)**.
 - 🛡️ **Governance & Compliance:** Established rigorous IT departmental SOPs aligned with institutional Quality Management Systems (QMS).
 - 🔬 **Applied R&D Thesis:** *Blockchain Technology for Asset Management Systems* (Department of Computer Science, IPB University).
 
@@ -49,11 +50,11 @@
 
 ---
 
-### 💡 Featured Engineering Artifacts & Repositories
+### 💡 Featured Research, Engineering Artifacts & Repositories
 
-| 🔗 [assetmanagement-v1](https://github.com/ichwans/assetmanagement-v1) | ⚡ MikroTik MCP Server |
+| 🔗 [assetmanagement-v1](https://github.com/ichwans/assetmanagement-v1) | 📄 Published Journal Paper |
 | :--- | :--- |
-| Prototype sistem manajemen aset berbasis blockchain (bagian dari riset tesis Master di IPB University). Menyediakan audit trail kriptografis untuk aset fisik dan inventaris institusi.<br/><br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white)<br/><br/>[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ichwans&repo=assetmanagement-v1&theme=tokyonight&hide_border=true)](https://github.com/ichwans/assetmanagement-v1) | Server Model Context Protocol (MCP) yang menghubungkan Claude/LLM dengan RouterOS REST API untuk automasi inspeksi routing, status antarmuka, dan audit firewall secara otonom.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik_REST-293239?style=flat-square&logo=mikrotik&logoColor=white) ![Anthropic MCP](https://img.shields.io/badge/Anthropic_MCP-D97706?style=flat-square&logo=anthropic&logoColor=white) |
+| Prototype sistem manajemen aset berbasis blockchain (bagian dari riset tesis Master di IPB University). Menyediakan audit trail kriptografis untuk aset fisik dan inventaris institusi.<br/><br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white)<br/><br/>[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ichwans&repo=assetmanagement-v1&theme=tokyonight&hide_border=true)](https://github.com/ichwans/assetmanagement-v1) | **Journal of Information Systems and Informatics (ISI)**<br/>*Architecture Design of Asset Management System Using Blockchain Technology*<br/><br/>Riset publikasi ilmiah yang membahas arsitektur blockchain enterprise untuk menjamin transparansi, immutable audit trail, dan efisiensi pelacakan siklus hidup aset.<br/><br/>[![Read Journal](https://img.shields.io/badge/Read_Paper-Journal_ISI-00F0FF?style=for-the-badge&logo=read-the-docs&logoColor=black)](https://journal-isi.org/index.php/isi/article/view/1618) |
 
 ---
 
