@@ -26,7 +26,7 @@
   <rect x="0" y="0" width="1200" height="2" fill="url(#neonLine)"/>
   <g transform="translate(60, 35)">
     <rect x="0" y="0" width="175" height="24" rx="12" fill="#1e293b" stroke="#00f0ff" stroke-width="0.75" stroke-opacity="0.6"/>
-    <text x="14" y="16" class="badge-txt">&bull; COLLABORATION READY</text>
+    <text x="14" y="16" class="badge-txt">• COLLABORATION READY</text>
     <text x="0" y="55" class="footer-heading">Let's Build Scalable Infrastructure &amp; Next-Gen Decentralized Systems</text>
     <text x="0" y="80" class="footer-sub">Open for Senior DevOps / Infrastructure Lead roles, IT System Architecture consulting, and Blockchain R&amp;D partnerships.</text>
   </g>
